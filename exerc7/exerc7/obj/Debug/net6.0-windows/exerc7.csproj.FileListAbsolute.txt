@@ -1,0 +1,17 @@
+C:\Users\j.almeida\Documents\estudoDotNet\ExercList2\exerc7\exerc7\bin\Debug\net6.0-windows\exerc7.exe
+C:\Users\j.almeida\Documents\estudoDotNet\ExercList2\exerc7\exerc7\bin\Debug\net6.0-windows\exerc7.deps.json
+C:\Users\j.almeida\Documents\estudoDotNet\ExercList2\exerc7\exerc7\bin\Debug\net6.0-windows\exerc7.runtimeconfig.json
+C:\Users\j.almeida\Documents\estudoDotNet\ExercList2\exerc7\exerc7\bin\Debug\net6.0-windows\exerc7.dll
+C:\Users\j.almeida\Documents\estudoDotNet\ExercList2\exerc7\exerc7\bin\Debug\net6.0-windows\exerc7.pdb
+C:\Users\j.almeida\Documents\estudoDotNet\ExercList2\exerc7\exerc7\obj\Debug\net6.0-windows\exerc7.csproj.AssemblyReference.cache
+C:\Users\j.almeida\Documents\estudoDotNet\ExercList2\exerc7\exerc7\obj\Debug\net6.0-windows\exerc7.Form1.resources
+C:\Users\j.almeida\Documents\estudoDotNet\ExercList2\exerc7\exerc7\obj\Debug\net6.0-windows\exerc7.csproj.GenerateResource.cache
+C:\Users\j.almeida\Documents\estudoDotNet\ExercList2\exerc7\exerc7\obj\Debug\net6.0-windows\exerc7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.almeida\Documents\estudoDotNet\ExercList2\exerc7\exerc7\obj\Debug\net6.0-windows\exerc7.AssemblyInfoInputs.cache
+C:\Users\j.almeida\Documents\estudoDotNet\ExercList2\exerc7\exerc7\obj\Debug\net6.0-windows\exerc7.AssemblyInfo.cs
+C:\Users\j.almeida\Documents\estudoDotNet\ExercList2\exerc7\exerc7\obj\Debug\net6.0-windows\exerc7.csproj.CoreCompileInputs.cache
+C:\Users\j.almeida\Documents\estudoDotNet\ExercList2\exerc7\exerc7\obj\Debug\net6.0-windows\exerc7.dll
+C:\Users\j.almeida\Documents\estudoDotNet\ExercList2\exerc7\exerc7\obj\Debug\net6.0-windows\refint\exerc7.dll
+C:\Users\j.almeida\Documents\estudoDotNet\ExercList2\exerc7\exerc7\obj\Debug\net6.0-windows\exerc7.pdb
+C:\Users\j.almeida\Documents\estudoDotNet\ExercList2\exerc7\exerc7\obj\Debug\net6.0-windows\exerc7.genruntimeconfig.cache
+C:\Users\j.almeida\Documents\estudoDotNet\ExercList2\exerc7\exerc7\obj\Debug\net6.0-windows\ref\exerc7.dll
